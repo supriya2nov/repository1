@@ -1,3 +1,6 @@
 class hello ()
 line2
-line3
+
+line5
+line6
+
