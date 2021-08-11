@@ -1,6 +1,8 @@
 class hello ()
-line2
+{ 
+	public static void main ()
 
-line5
-line6
+	{
+	}
 
+}
